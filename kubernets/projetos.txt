@@ -1,0 +1,9 @@
+**** atividades kubernets ****
+https://github.com/alura-cursos/1846-kubernetes/tree/Aula4
+
+**** projeto kuberbets ****
+https://github.com/alura-cursos/1846-kubernetes/tree/Aula5
+
+**** projeto completo *****
+https://github.com/alura-cursos/1846-kubernetes/tree/Aula6
+
